@@ -25,19 +25,21 @@ Se evaluarán:
  
 ## Rúbrica
 
-Laboratorio: Clasificación de dígitos utilizando perceptrones multicapa	Descripción	Puntuación máxima
-(puntos)	Peso
-%
-Criterio 1	Información del Dataset.	0.5	5 %
-Criterio 2	Normalización y preprocesado de los datos.	0.75	7.5 %
-Criterio 3	Creación del modelo.	1	10 %
-Criterio 4	Compilación y entrenamiento.	1	10 %
-Criterio 5	Impacto al variar el número de neuronas en las capas ocultas.	0.5	5 %
-Criterio 6	Número de neuronas de la capa de salida.	0.5	5 %
-Criterio 7	Aumento de epoch y su efecto en la red neuronal.	0.75	7.5 %
-Criterio 8	Early Stop.	0.75	7.5 %
-Criterio 9	Unidades de Activación.	0.75	7.5 %
-Criterio 10	Inicialización de Parámetros.	0.75	7.5 %
-Criterio 11	Optimizadores.	0.75	7.5 %
-Criterio 12	Regularización y Red Final.	2	20%
-		10	100 %
+# Laboratorio: Clasificación de dígitos utilizando perceptrones multicapa
+
+| Criterio                                                                 | Descripción                                     | Puntuación máxima (puntos) | Peso (%) |
+|--------------------------------------------------------------------------|-------------------------------------------------|-----------------------------|----------|
+| Criterio 1                                                               | Información del Dataset                         | 0.5                         | 5 %      |
+| Criterio 2                                                               | Normalización y preprocesado de los datos       | 0.75                        | 7.5 %    |
+| Criterio 3                                                               | Creación del modelo                             | 1                           | 10 %     |
+| Criterio 4                                                               | Compilación y entrenamiento                     | 1                           | 10 %     |
+| Criterio 5                                                               | Impacto al variar el número de neuronas         | 0.5                         | 5 %      |
+| Criterio 6                                                               | Número de neuronas de la capa de salida         | 0.5                         | 5 %      |
+| Criterio 7                                                               | Aumento de epoch y su efecto                    | 0.75                        | 7.5 %    |
+| Criterio 8                                                               | Early Stop                                      | 0.75                        | 7.5 %    |
+| Criterio 9                                                               | Unidades de Activación                          | 0.75                        | 7.5 %    |
+| Criterio 10                                                              | Inicialización de Parámetros                    | 0.75                        | 7.5 %    |
+| Criterio 11                                                              | Optimizadores                                   | 0.75                        | 7.5 %    |
+| Criterio 12                                                              | Regularización y Red Final                      | 2                           | 20 %     |
+| **Total**                                                                |                                                 | **10**                      | **100 %**|
+
