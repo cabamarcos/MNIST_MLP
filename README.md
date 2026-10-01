@@ -1,5 +1,15 @@
 # Actividad 1. Laboratorio: Clasificación de dígitos utilizando perceptrones multicapa
 
+<!-- academic-catalog:start -->
+**UNIR · Máster en Inteligencia Artificial · Redes de neuronas**
+
+Clasificación de dígitos de MNIST mediante perceptrones multicapa y experimentación con el entrenamiento en Keras y TensorFlow.
+
+**Tecnologías:** Python, TensorFlow, Keras.
+
+[Ver todos mis proyectos académicos](https://github.com/cabamarcos/academic-projects)
+<!-- academic-catalog:end -->
+
 ## Objetivos
 
 En esta actividad aprenderemos cómo programar redes neuronales con Keras y TensorFlow y pondremos en práctica varios de los conceptos avanzados de entrenamiento de redes neuronales profundas vistos en clase. Para ello, utilizaremos el dataset MNIST, consistente en un conjunto de imágenes de dígitos (decimales, del 0 al 9) escritos a mano.
